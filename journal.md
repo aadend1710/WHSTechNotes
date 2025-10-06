@@ -17,3 +17,7 @@ Working in a virtual store for real money, as exemplified by IKEA's venture on R
 # September 30, 2025
 
 The phrase "6, 7" is mostly meaningless, which is precisely the point. It likely originated from a viral TikTok sound from Skrilla's song "Doot Doot (6 7)." This sound has basically become a modern inside joke for students. When repeated, the phrase is often accompanied by an up-and-down hand motion. Some suggest the gesture refers to NBA player LaMelo Ball, but it mostly signifies shared humor. Its absurdity is the primary appeal, intentionally frustrating adults who don't understand it. By repeating the phrase, students affirm their place within a shared digital culture. It signifies a shared "brain rot" humor that intentionally lacks deeper meaning.
+
+# October 6, 2025
+
+If I was in charge of my own school, my technology and AI policy would be... (Continued as homework)
