@@ -24,4 +24,14 @@ If I were in charge of my own school, my technology and AI policy would prioriti
 
 # October 16, 2025
 
-Save For Homework
+My prompt was created to educate and help highschool students learn more about the coding world and tools like python in an effort to help high school students learn about coding with Python. The interactive approach, which used mini-website windows to showcase code, was a successful way to engage the students. Canva had interpreted it as a neat website with windows into mini sites that help the students practice and see codes. The interactive thing that worked best was the mini websites that helped show what python and other coding things look like in a mini window. However, the project's primary weakness was an over-reliance on examples rather than providing precise, factual definitions. To improve, the content needs more accurate explanations to properly educate the audience and incorporating more factual information will provide a stronger educational foundation for students interested in coding. 
+
+# October 20, 2025
+
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | Second |    91A  |
+| Hardeep  | Third | 61F |
+| Marla    | First | 35B |
+
+----
