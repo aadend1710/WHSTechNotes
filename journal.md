@@ -35,3 +35,15 @@ My prompt was created to educate and help highschool students learn more about t
 | Marla    | First | 35B |
 
 ----
+
+# October 27, 2025
+
+During and after a natural disaster, technology provides essential lifelines for communication, information, and rescue efforts. Before a natural disaster, tools like predictive modeling and early warning systems help people prepare for and evacuate from dangerous areas. During the event, people use smartphones to communicate with loved ones via social media, text messages, and mobile weather apps, sharing information and coordinating efforts when traditional communication methods fail. After a disaster, satellite technology assists first responders by providing crucial images for damage assessment and mapping search and rescue routes. These technologies empower individuals to make informed decisions for their own safety and the safety of others, transforming disaster response from a reactive, chaotic event into a more coordinated and effective effort. For example, during a wildfire, a mobile app could alert users to the fire's proximity and direction, while satellite data could be used to guide firefighters to the most critical areas. Ultimately, these tools empower communities to better withstand the devastation caused by natural disasters.
+
+If I could invent a new piece of technology, it would be a network of small, automated drones powered by solar energy that could be deployed to disaster areas. These drones would be equipped with thermal cameras, GPS, and a robust, ad-hoc communication system. During a flood or earthquake, these drones would swarm over the affected area, surveying the damage in real-time, identifying trapped individuals using thermal imaging, and transmitting the location of survivors to emergency services via a self-contained communication network. For instance, after a severe hurricane causes widespread flooding, these drones could quickly locate people stranded on rooftops or in submerged cars, pinpointing their exact locations for rescue teams. This would significantly reduce the time it takes for help to arrive in hard-to-reach areas and could help save countless lives by providing first responders with real-time, actionable intelligence even when ground-based infrastructure is compromised.
+
+| Name     | Main Dish | Dessert |
+| :------- | :---- | :--- |
+| Tobias | Shrimp Ceviche | French Apple Cake |
+| Fiona  | Gado Gado | Creme Brulee |
+| Leanne  | Beef Wellington | Raspberry Tiramisu |
