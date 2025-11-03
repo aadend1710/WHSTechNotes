@@ -47,3 +47,7 @@ If I could invent a new piece of technology, it would be a network of small, aut
 | Tobias | Shrimp Ceviche | French Apple Cake |
 | Fiona  | Gado Gado | Creme Brulee |
 | Leanne  | Beef Wellington | Raspberry Tiramisu |
+
+# November 3, 2025
+
+(Homework)
