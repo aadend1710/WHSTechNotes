@@ -54,6 +54,14 @@ A funding lapse for the Supplemental Nutrition Assistance Program (SNAP) is a ma
 
 If I were the designer, my tool would be called "NourishNow," a mobile-first website designed for accessibility on any device, even with limited internet. NourishNow would use location services to immediately show nearby food pantries, free meal sites, and grocery stores offering special programs, with clear directions and hours. Instead of requiring user accounts, it would prioritize privacy and provide information instantly upon visiting the site. The platform would also include a community forum where users could share information about local food drives or temporary assistance programs. To address the digital divide, a call-in service would be available, connecting users to a human assistant who could provide the same information found online.
 
-# November 7, 2025
+# November 10, 2025
+
+I'm using my free journal.
+
+# November 17, 2025
 
 I am absolutely looking forward to the upcoming Thanksgiving break, as it promises a much-needed period of relaxation and quality time. The opportunity to gather with my family and reconnect is what I anticipate the most, creating cherished memories together. Furthermore, I can't wait to indulge in the abundance of traditional and absolutely delicious foods that are the centerpiece of the holiday feast. This break offers a wonderful chance to step away from my usual routine and fully embrace the warmth and comfort of the season. It truly feels like a perfect time to celebrate gratitude and enjoy the simple pleasures of being with loved ones.
+
+# December 1, 2025
+
+One job that heavily relies on drones is a Drone Software Engineer. These professionals design and implement the software and algorithms that allow Unmanned Aerial Vehicles (UAVs) to fly autonomously and execute complex tasks. Coding in languages like Python is essential for developing flight control systems, processing sensor data for navigation and obstacle avoidance, and integrating computer vision to analyze data collected for applications like mapping or inspections. In Texas, the average annual pay for a Drone Software Engineer is approximately $137,441 as of November. Education requirements typically include a Bachelor's degree in Computer Science, Software Engineering, or a related field, often coupled with knowledge of robotics and a professional certification.
