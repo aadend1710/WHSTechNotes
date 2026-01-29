@@ -81,3 +81,7 @@ Autcraft was founded to shield autistic youth from online harassment, creating a
 # January 20th, 2026
 
 One way technology can help create fairness is by providing universal access to high-quality education through online platforms and digital resources. An example of this could be a student in a remote or underfunded area using free global courses to learn the same advanced subjects as students in wealthy urban schools. I believe that this matters because it levels the playing field, ensuring that a person’s potential is not limited by their geographic location or financial status. By using the internet to distribute knowledge, technology helps people be treated more fairly by removing the barriers to success and opportunity. Ultimately, when everyone has the opportunity to learn and speak up, the dream of a more just society becomes a shared reality.
+
+# January 29, 2026
+
+The test I took this week was the MAP test, and I feel unsure, yet relieved about my performance because I finished all of them on time, but some of the questions were difficult to understand, especially on my biology MAP test. One thing I did well was staying focused on my work, but I struggled with reading long passages and understanding the more complex formulas. I think test prep most likely help me do better next time because it would make me feel more confident with my answers. I believe that I reached my goal score on most of the units, and my next step is to work harder and review some of my notes.
