@@ -85,3 +85,7 @@ One way technology can help create fairness is by providing universal access to 
 # January 29, 2026
 
 The test I took this week was the MAP test, and I feel unsure, yet relieved about my performance because I finished all of them on time, but some of the questions were difficult to understand, especially on my biology MAP test. One thing I did well was staying focused on my work, but I struggled with reading long passages and understanding the more complex formulas. I think test prep most likely help me do better next time because it would make me feel more confident with my answers. I believe that I reached my goal score on most of the units, and my next step is to work harder and review some of my notes.
+
+# February 2, 2026
+
+In a shared space, people should be mindful of how their presence and actions impact the comfort of those around them. Professional behavior matters because it creates a foundation of mutual respect that allows everyone to focus on their goals without unnecessary distraction. Practicing good hygiene and maintaining a reasonable volume are simple yet effective ways to show consideration for colleagues and classmates. Additionally, exercising self-regulation ensures that personal moods do not disrupt the collective productivity of the group. By consistently following these standards, individuals contribute to a positive environment where everyone feels valued and comfortable.
