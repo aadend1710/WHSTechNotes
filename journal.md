@@ -89,3 +89,7 @@ The test I took this week was the MAP test, and I feel unsure, yet relieved abou
 # February 2, 2026
 
 In a shared space, people should be mindful of how their presence and actions impact the comfort of those around them. Professional behavior matters because it creates a foundation of mutual respect that allows everyone to focus on their goals without unnecessary distraction. Practicing good hygiene and maintaining a reasonable volume are simple yet effective ways to show consideration for colleagues and classmates. Additionally, exercising self-regulation ensures that personal moods do not disrupt the collective productivity of the group. By consistently following these standards, individuals contribute to a positive environment where everyone feels valued and comfortable.
+
+# February 10, 2026
+
+While I wouldn't describe myself as a football enthusiast, I find there’s a certain comfort in having a game provide the ambient soundtrack to a quiet empty room in the afternoon. I did tune in for Super Bowl LX, though my focus remained largely detached from the athletic maneuvers on the field. To me, the strategic back-and-forth holds a pretty small appeal; however, the Halftime Show was an entirely different matter. It was a highlight: vibrant, engaging, and featuring a setlist so infectious that the melodies are still echoing in my head.
