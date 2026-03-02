@@ -97,3 +97,40 @@ While I wouldn't describe myself as a football enthusiast, I find there’s a ce
 February 23, 2026
 
 I believe the most important technology used in the 2026 Winter Olympics was AI-powered motion tracking and 3D computer vision because it revolutionized both fairness and performance by providing objective, millisecond-accurate data that eliminated human bias from judging. I observed this technology being used extensively in figure skating and ski jumping, where specialized high quality high-speed camera arrays captured the athletes' movements in 3D space to instantly calculate jump height, and landing dynamics. This affected the competition because it ensured a higher level of transparency, as judges no longer had to rely solely on the naked eye to make quick decisions on complex technical elements. While I feel this improved the sport by making results more indisputable and helping athletes refine their form with precision, I also recognize the concern that it may create a digital divide between wealthy nations and those with less access to these expensive training tools.
+
+# March 2nd, 2026
+
+Job #1
+
+Company: USAA
+
+Job Title: Software Engineer
+
+Education Required: Bachelor’s degree in a tech field (or equivalent experience).
+
+Experience Required: 4+ years in software development.
+
+Skills / Tools / Languages: Java, Python, JavaScript, SQL, and Agile teamwork.
+
+Certifications: Not required, but Oracle or coding bootcamp certs are a plus.
+
+What the job does: You build, test, and fix the apps and digital tools that USAA members use for banking and insurance.
+
+
+Job #2
+
+Company: Booz Allen Hamilton
+
+Job Title: Cybersecurity Analyst
+
+Education Required: High School diploma (though a degree is preferred).
+
+Experience Required: 5+ years in cyber; 3+ years in a security office.
+
+Skills / Tools / Languages: Threat hunting, digital forensics, and understanding security rules.
+
+Certifications: Security+ or CISSP (and you must be able to get a security clearance).
+
+What the job does: You watch for digital "break-ins" and lead the response to stop hackers and protect sensitive data.
+
+I’d prefer the Software Engineer role at USAA because it aligns with my personal interests and my current studies. This position specifically requires a Bachelor’s degree and proficiency in programming languages like Java and Python. These requirements connect to me because I am a Communications major who loves technology and wants to understand the "behind-the-scenes" of how software is built. My goal is to eventually create my own software, and the technical skills listed in the job description provide the perfect roadmap to get there. By combining my communication background with these coding skills, I can bridge the gap between technical building and clear digital messaging. Ultimately, this role fits my desire to grow into a creator in the tech industry.
