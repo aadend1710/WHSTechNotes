@@ -134,3 +134,15 @@ Certifications: Security+ or CISSP (and you must be able to get a security clear
 What the job does: You watch for digital "break-ins" and lead the response to stop hackers and protect sensitive data.
 
 I’d prefer the Software Engineer role at USAA because it aligns with my personal interests and my current studies. This position specifically requires a Bachelor’s degree and proficiency in programming languages like Java and Python. These requirements connect to me because I am a Communications major who loves technology and wants to understand the "behind-the-scenes" of how software is built. My goal is to eventually create my own software, and the technical skills listed in the job description provide the perfect roadmap to get there. By combining my communication background with these coding skills, I can bridge the gap between technical building and clear digital messaging. Ultimately, this role fits my desire to grow into a creator in the tech industry.
+
+# March 23, 2026
+
+I chose by bracket based on the data of the teams previous wins, but also guessed because I don't know alot about how basketball works and the chances of each team winning is completely up to fate.
+
+The results shocked me because I believe I was almost very correct in my choices of who won, but I also didn't expect for the team I chose to win because it's hard to predict. 
+
+Data points like team efficiency and strength of schedule replace "gut feelings" with objective facts. This helps identify strong teams that might be overlooked by the average fan.
+
+​Computers can run thousands of tournament simulations in seconds to find the most likely winners. They process massive amounts of game footage and stats much faster and more accurately than a human.
+
+​Data scientists and analysts use this information to build predictive models for the teams and media networks. Software engineers also develop the apps and databases that deliver these sports stats to the public.
