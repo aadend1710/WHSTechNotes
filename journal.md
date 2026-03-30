@@ -146,3 +146,11 @@ Data points like team efficiency and strength of schedule replace "gut feelings"
 ​Computers can run thousands of tournament simulations in seconds to find the most likely winners. They process massive amounts of game footage and stats much faster and more accurately than a human.
 
 ​Data scientists and analysts use this information to build predictive models for the teams and media networks. Software engineers also develop the apps and databases that deliver these sports stats to the public.
+
+March 30, 2026
+
+Upsets happen because March Madness isn't played on a spreadsheet; it’s a high-stakes environment where one bad night or a burst of momentum can override a season's worth of superior stats.
+
+Take #16 Fairleigh Dickinson’s 2023 win over #1 Purdue. Despite being the shortest team in the field, FDU ignored the 95% win probability stacked against them and used a relentless press to rattle Purdue. The data captured Purdue's height and shooting percentages perfectly, but it couldn't account for the "giant-killer" confidence FDU gained as the clock ticked down.
+
+Predictions struggle because computers can't measure "human" variables like nerves, grit, or chemistry. In computer science, a model is only as good as its data; if you can't turn "panic" into a number, the code will have a massive blind spot. To improve this, programmers use stochastic modeling to run thousands of "what-if" scenarios that account for random chaos. Stats prove who should win over a long season, but they can't predict the heart of an underdog in a 40-minute window.
