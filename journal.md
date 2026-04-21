@@ -164,3 +164,11 @@ The plan would be executed through a Controlled Integration Protocol, transformi
 # April 13, 2026
 
 Modern space technology is a reliable foundation for deep-space exploration, yet the Artemis II mission proves that rigorous testing is still required before humans can safely inhabit the Moon or Mars. During the flight, the Orion spacecraft and its advanced heat shield served as critical technologies that provided essential life support and protection during the high-speed reentry into Earth's atmosphere. These systems enabled the crew to break human spaceflight distance records while ensuring their safe return despite the harsh environment of deep space. However, a significant challenge occurred when the waste management system experienced mechanical issues, highlighting how even minor hardware failures can become major risks on longer journeys. This complication is important because it provides engineers with vital data to redesign more resilient, self-repairing systems that are necessary for multi-year missions where Earth-based resupply is impossible. Ultimately, while current technology is sufficient for short lunar flybys, overcoming these mechanical hurdles is the only way to ensure the long-term safety of astronauts traveling to Mars.
+
+# April 21, 2026
+
+I believe that while AI can mimic the sound of art, it cannot replace the human connection we crave. Therefore, we need clear boundaries to ensure we are not trading a digital imitation for a real soul.
+
+Consider how AI is used to create "perfect" covers of famous singers performing songs they never actually sang. While these clips can be fun or impressive, they lack the genuine vulnerability and personal struggle that a human artist pours into a recording session. Furthermore, the use of AI to generate realistic but fake political speeches on social media can mislead the public into doubting what is true.
+
+This proves that while AI is incredibly good at copying patterns to influence our emotions, it lacks the accountability and lived truth that humans bring to their work. If we do not set limits, like requiring labels on AI content, we risk losing our ability to trust anything we see or hear. By keeping human intent at the center, we protect the very thing that makes music and media worth consuming, which is the feeling that someone actually meant what they said.
