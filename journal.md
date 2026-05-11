@@ -176,3 +176,7 @@ This week, I noticed the technology behind Spotify, my music streaming app. Thes
 # May 6, 2026
 
 Whenever I use the app Youtube and Pinterest and scroll/click on specific videos or "pins", the data I generate helps them learn what I like. They then use this information to make the app more personalized and encourage me to keep using it. Whenever I click on something in the app like a link, it feeds the system and code, even the ai, to train the algorithm to entertain me with the things that I have picked in my history. Ultimately, when I use my media apps and interact with specific things on the apps, it generates data for the system in the app to learn from and base their AI algorithm off of to better increase user activity on their app.
+
+# May 11, 2026
+
+I have definitely grown alot in my responsibility this school year by taking charge in my work in my AP Human Geography class. The fast pace of work and long readings made me realize I really had to stay organized to keep up. For example, I finished alot of the checkpoints for my final project ahead of the group who had been distracting me earlier in the year, instead of waiting until the very last minute. Now that I'm much more focused I don't need as much reminders as I previously did. Taking ownership and responsibility for my studies and my schedule has made me feel more prepared and confident for my presentation.
