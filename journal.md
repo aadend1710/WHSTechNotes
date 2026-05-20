@@ -180,3 +180,7 @@ Whenever I use the app Youtube and Pinterest and scroll/click on specific videos
 # May 11, 2026
 
 I have definitely grown alot in my responsibility this school year by taking charge in my work in my AP Human Geography class. The fast pace of work and long readings made me realize I really had to stay organized to keep up. For example, I finished alot of the checkpoints for my final project ahead of the group who had been distracting me earlier in the year, instead of waiting until the very last minute. Now that I'm much more focused I don't need as much reminders as I previously did. Taking ownership and responsibility for my studies and my schedule has made me feel more prepared and confident for my presentation.
+
+# May 18, 2026
+
+My friend Kyla stands at about 5 feet tall and has a consistent and recognizable style of dress. She is most frequently seen wearing hoodies, jeans, and sneakers, which appear to be her standard clothes. The hoodie she is most commonly seen wearing is dark blue and cyan in color, which serves as a notable identifying detail. Her hair is dark brown with subtle orange undertones, which further distinguishes her appearance. Regarding her demeanor, she is generally reserved and soft-spoken in most settings, though she tends to be more vocal and expressive when in the company of close friends.
